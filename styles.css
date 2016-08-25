@@ -21,4 +21,25 @@ p {
 	margin-bottom: 10px;
 }
 
-/*this is the first push to Github*/
+/*end of first push to Github*/
+
+div {
+	margin-bottom: 10px;
+	display: block;
+}
+
+h4 {
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+ol {
+	list-style: lower-roman;
+}
+
+.lorem{
+	color: grey;
+}
+
+
+/*end of secong push*/
